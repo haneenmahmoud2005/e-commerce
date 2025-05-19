@@ -1,0 +1,11 @@
+@import "tailwindcss";
+.bttn {
+  transition: transform 1s, opacity 1s;
+  transform: translateY(100%);
+  opacity: 0;
+}
+
+.pro:hover .bttn {
+  transform: translateY(0%);
+  opacity: 1;
+}
