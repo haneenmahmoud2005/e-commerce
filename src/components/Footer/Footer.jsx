@@ -59,7 +59,7 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <span className="font-medium">Address:</span> 123 Main Street, City, Country
+              <span className="font-medium">Address:</span> Egypt, Tanta
             </li>
           </ul>
         </div>
